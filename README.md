@@ -49,11 +49,11 @@ Hoy en día, combino mi conocimiento en **Infraestructura y Redes** con el desar
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoyaJoseDev&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoyaJoseDev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
