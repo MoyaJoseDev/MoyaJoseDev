@@ -1,8 +1,8 @@
 # ¡Hola! Soy José Tomás Moya 👋 🇦🇷
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/José Tomás Moya foto.png" width="50%" />
-</p> -->
+</p>
 
 ## 🚀 Sobre Mí
 
