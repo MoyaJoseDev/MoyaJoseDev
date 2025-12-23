@@ -1,7 +1,7 @@
 # ¡Hola! Soy José Tomás Moya 👋 🇦🇷
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=200&section=header&text=Full%20Stack%20%26%20Network%20Specialist&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="./assets/José Tomás Moya foto.png" width="100%" />
 </p>
 
 ## 🚀 Sobre Mí
@@ -61,8 +61,8 @@ Hoy en día, combino mi conocimiento en **Infraestructura y Redes** con el desar
 ## 📫 Conectemos
 ¡Siempre estoy abierto a charlar sobre proyectos de desarrollo, arquitectura de servidores o domótica!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josetomasmoya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josetomasmoya.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
 <p align="center">
